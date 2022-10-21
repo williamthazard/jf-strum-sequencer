@@ -1,4 +1,4 @@
----fctehn
+---strum sequencer for just friends, w/syn, and crow
 
 s = sequins
 
