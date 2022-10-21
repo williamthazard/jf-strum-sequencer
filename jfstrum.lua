@@ -17,7 +17,7 @@ note = function()
 end
 
 withnote = function()
-    ii.wsyn.play_note(a:step(2)()/12, 1)
+    ii.wsyn.play_note(a:step(b())()/12, 1)
 end
 
 strum = function()
